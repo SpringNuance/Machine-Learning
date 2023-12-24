@@ -1,0 +1,80 @@
+Q1.1
+Yes. The topic is about
+Q1.2
+Yes. The application domain of this report
+Q1.3
+The introduction section gives an overview of the report from "this report first..." to "...final discussion"
+
+Q2.1
+Yes, the data points, features, labels are clearly explained. 
+- The data points are
+- The features are 
+- The label is  
+
+Q3.1
+Yes, the description gives the reader a general understanding of the datatset.
+- Source of dataset:
+- Number of datapoints: 
+
+Q3.2
+Yes, the report explains the process of feature selection. 
+
+Q3.3
+Yes, the report discusses at least two ML methods, which are 
+
+Q3.4
+Yes,  the report clearly states the models (hypothesis spaces) and explain the motivation behind using them for the ML methods. 
+- Model 1: . Motivation: 
+- Model 2: . Motivation:
+
+Q3.5
+Yes, the report clearly specifies the loss functions and explain the motivation behind using them to evaluate the quality of a hypothesis. 
+- Loss function: . Motivation: 
+- Loss function: . Motivation: 
+
+Q3.6
+Yes, the report explicitly discusses all listed requirements. 
+- How the training and validation set are constructed:
+- The size of each set: 
+- The reasons behind the design choice: 
+
+Q4.1
+Yes, the report explicitly discusses all listed requirements. 
+(1) The training and validation errors:
+Train error for 1st model:
+Validation error for 1st model: 
+Train error for 2nd model:
+Validation error for 2nd model: 
+(2) Comparison of the training and validation errors:  
+(3) Decision on the final chosen method:  
+
+Q4.2
+Yes, the report explicitly discusses all listed requirements. 
+- How the test set is constructed: 
+- Test error of the final chosen ML method: 
+
+Q4.3
+Quality of the discussion
+(1) Report summary and results interpretation:
+(2) Whether the obtained results are optimal or need improvement: 
+(3) Future directions on how to further improve the ML method:  
+
+Q5.1
+The report format and language is professional and the report is free of typos and incomplete sentences, verified by online grammar tool Grammarly. 
+
+Q5.2
+Yes, the code file is submitted as an appendix.
+
+Q6.1
+Yes, the report follows the required outline.
+
+Q6.2
+I have done some research and I think I have not seen this ML problem before
+
+Q6.3
+I chose “1p” in the question above.  
+
+Q6.6
+The report is verified by online plagiarism checker that there is no plagiarism. Therefore, I do not suspect any copy-pasting from other sources
+
+Q6.7
